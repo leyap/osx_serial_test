@@ -1,11 +1,11 @@
 /*
 ***************************************************************************
 *
+* Author: lisper <leyapin@gmail.com>
 * Author: Teunis van Beelen
 *
 * Copyright (C) 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014 Teunis van Beelen
 *
-* teuniz@gmail.com
 *
 ***************************************************************************
 *
@@ -29,7 +29,7 @@
 ***************************************************************************
 */
 
-/* last revision: Januari 31, 2014 */
+/* last revision: 2015-03-20 */
 
 /* For more info and how to use this libray, visit: http://www.teuniz.net/RS-232/ */
 
